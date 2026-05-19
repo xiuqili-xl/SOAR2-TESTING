@@ -6,7 +6,7 @@ location: TBD
 title: Open Project Plan (Capstone)
 description: Bring everything together by outlining a research project of your own. You’ll identify a topic or question, think through what data you would use, and plan how you would organize, document, and share your work. This capstone activity helps you turn what you’ve learned throughout SOAR2 into a clear path forward.
 
-thumbnail: /_images/modules/module5-gen-ai.png
+thumbnail: /_images/modules/module7-open-project-plan.png
 
 hide_from_announcments: true
 
