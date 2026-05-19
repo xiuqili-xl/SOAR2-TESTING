@@ -19,6 +19,7 @@ In just three days, you will:
 * Understand how research projects take shape—from start to finish
 * Explore what it means to do research openly and responsibly
 * Build confidence in communicating your research
+* Consider the opportunities and limitations of using generative AI in research
 * Leave with a clear plan for your next steps in research
 
 See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information about the program, including the tentative schedule and module descriptions.

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-09-17T13:00:00-7:00
+date: 2026-09-22T13:00:00-7:00
 location: TBD
 
 title: Communicating Research

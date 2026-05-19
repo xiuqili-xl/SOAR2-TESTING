@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-09-16T9:00:00-7:00
+date: 2026-09-21T9:00:00-7:00
 location: TBD
 
 title: Entering Research

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-09-17T9:00:00-7:00
+date: 2026-09-22T9:00:00-7:00
 location: TBD
 
 title: Documentation & Reproducibility
