@@ -25,13 +25,18 @@ layout: default
 
     <br>
     
+    <!-- The following section pulls data from entity.yml for the organizers and funder -->
     <div>
         <div style="width:55%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Organizers</h2>
                 {% for org in site.data.entity.organizers %}
                 <div class="image--cover-container">
-                    <img src="{{org.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <img
+                      src="{{ org.profile_pic | prepend: site.baseurl }}"
+                      class="image--cover"
+                      alt="{% if org.profile_pic_alt_text %}{{ org.profile_pic_alt_text }}{% else %}{{ org.name }} logo{% endif %}"
+                    >
                     {% if org.webpage %}
                     <p><a href="{{ org.webpage }}">{{org.name}}</a></p>
                     {% else %}
@@ -47,7 +52,11 @@ layout: default
                 <h2>Funder</h2>
                 {% for fdr in site.data.entity.funder %}
                 <div class="image--cover-container">
-                    <img src="{{fdr.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <img 
+                      src="{{fdr.profile_pic | prepend: site.baseurl }}"
+                      class="image--cover"
+                      alt="{% if fdr.profile_pic_alt_text %}{{ fdr.profile_pic_alt_text }}{% else %}{{ fdr.name }} logo{% endif %}"
+                    >
                     {% if fdr.webpage %}
                     <p><a href="{{ fdr.webpage }}">{{fdr.name}}</a></p>
                     {% else %}

@@ -5,12 +5,15 @@
 organizers:
   - name: RDS
     profile_pic: /_images/entity/rds-logo.png
+    profile_pic_alt_text: Logo of UCSB Library Research Data Services (RDS)
     webpage: https://www.library.ucsb.edu/research-data-services
   - name: URCA
     profile_pic: /_images/entity/urca-logo.jpeg
+    profile_pic_alt_text: Wordmark of UCSB Office of Undergraduate Research and Creative Activities (URCA)
     webpage: https://www.urca.ucsb.edu
 
 funder:
   - name: ORCA
     profile_pic: /_images/entity/orca-logo.png
+    profile_pic_alt_text: Logo of the Open Research Community Accelerator (ORCA)
     webpage: https://www.orcaopen.org/
