@@ -70,7 +70,7 @@ Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application i
 * Basic information about you
 * Short statements about your research interests and what you hope to gain from SOAR²
 
-Preview a copy of the application form and evaluation criteria [here](https://docs.google.com/document/d/1aK46M_7EeNLn0FVSPeWySzbpEiXd0ene1Y7RT7K9HAQ/edit?usp=sharing).
+Preview a copy of [the application form and evaluation criteria here](https://docs.google.com/document/d/1aK46M_7EeNLn0FVSPeWySzbpEiXd0ene1Y7RT7K9HAQ/edit?usp=sharing).
 
 <br/>
 
