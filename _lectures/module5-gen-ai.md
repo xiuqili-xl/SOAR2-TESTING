@@ -7,6 +7,7 @@ title: Generative AI in Research
 description: Explore potential uses of generative AI tools in research workflows. You’ll examine both the possibilities and limitations of these tools, with an emphasis on using AI intentionally, critically, and responsibly in research settings. This module will also touch upon important questions around transparency, reproducibility, bias, and intellectual contribution.
 
 thumbnail: /_images/modules/module5-gen-ai.png
+thumbnail_alt: Icon for the Generative AI in Research module
 
 hide_from_announcments: true
 
