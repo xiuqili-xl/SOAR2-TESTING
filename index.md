@@ -4,6 +4,8 @@ layout: home
 
 **The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence.** 
 
+<br/>
+
 ## Program Highlights
 
 Participants will:
@@ -31,20 +33,22 @@ SOAR² is highly interactive. Participants will engage in:
 
 Sessions are led by [instructors and facilitators]({{ "/instructors/" | relative_url }}) from different disciplines who will provide perspectives across different fields.
 
+**SOAR² is free to attend, and meals are provided. A digital badge and a certificate will be issued upon completion.**
+
 <br/>
 
 ## Who participates?
 
-SOAR² brings together undergraduate students from across disciplines and experience levels. Some participants are already involved in research projects, while others are exploring research opportunities for the first time.
+SOAR² will bring together UCSB undergraduate students from across disciplines (from Biological & Life Sciences to Humanities & Fine Arts). Some are already involved in research projects, while others are exploring research opportunities for the first time. We can't wait to get started!
 
 <br/>
 
 ## Program timeline
-**Application opens**: May 11 - Jun 3, 2026
+**Application window**: May 11 - Jun 3, 2026
 
 **Decisions released**: by mid Jun, 2026
 
-**Program details and logistics**: Summer 2026 
+**Program details and logistics**: throughout the Summer 2026 
 
 **SOAR² Camp**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
 
@@ -80,6 +84,6 @@ We do **not** expect advanced technical skills or fully developed research plans
 
 
 ## Questions?
-Contact: rds [AT] library.ucsb.edu
+**Contact** rds [AT] library.ucsb.edu
 
 
