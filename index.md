@@ -2,23 +2,19 @@
 layout: home
 ---
 
-**Are you conducting mentored research—or curious about getting started? Want to build practical research skills that you can apply immediately?**
-
-The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB *undergraduate* students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
-
-**SOAR² is free to attend, and meals are provided. Upon completion, you will receive a digital badge and a certificate.**
+**The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence.** 
 
 <br/>
 
-## Why apply?
+## Program Highlights
 
-In just three days, you will:
+Participants will:
 
 * Gain practical skills for working with and organizing data
-* Learn how to document your work so others (and your future self) can use it
+* Learn how to document research clearly and reproducibly
 * Understand how research projects take shape—from start to finish
 * Explore what it means to do research openly and responsibly
-* Build confidence in communicating your research
+* Build confidence communicating your research
 * Consider the opportunities and limitations of using generative AI in research
 * Leave with a clear plan for your next steps in research
 
@@ -28,35 +24,38 @@ See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information
 
 ## What to expect?
 
-SOAR² is highly interactive. You’ll participate in:
+SOAR² is highly interactive. Participants will engage in:
 
 * Interactive workshops and hands-on activities
 * Small-group discussions and collaborative exercises
 * Visits to campus research facilities
 * A keynote talk from a researcher doing open and reproducible science
 
-Sessions are led by [instructors and facilitators]({{ "/instructors/" | relative_url }}) from different disciplines, so you’ll gain perspectives that apply across fields.
+Sessions are led by [instructors and facilitators]({{ "/instructors/" | relative_url }}) from different disciplines who will provide perspectives across different fields.
+
+**SOAR² is free to attend, and meals are provided. A digital badge and a certificate will be issued upon completion.**
 
 <br/>
 
-## Who should apply?
+## Who participates?
 
-No prior research experience required! We welcome applications from **all UCSB undergraduate students**, whether you have a research project, are interested in getting started in research, or are just curious.
+SOAR² will bring together UCSB undergraduate students from across disciplines (from Biological & Life Sciences to Humanities & Fine Arts). Some are already involved in research projects, while others are exploring research opportunities for the first time. We can't wait to get started!
 
 <br/>
 
-## Program dates
-**Application opens**: May 11 - Jun 3, 2026
+## Program timeline
+**Application window**: May 11 - Jun 3, 2026
 
 **Decisions released**: by mid Jun, 2026
 
-**Program dates**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
+**Program details and logistics**: throughout the Summer 2026 
+
+**SOAR² Camp**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
 
 <br/>
 
-
-## How to apply?
-
+<!-- The code chunk below generates the application button -->
+<!--
 {% include button.html
   button_name="APPLY HERE!"
   button_class="outline-primary"
@@ -64,19 +63,14 @@ No prior research experience required! We welcome applications from **all UCSB u
   url="https://ucsb.co1.qualtrics.com/jfe/form/SV_dmPDAXx7f20vhCm"
   new_tab=true
 %}
-
-Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application includes:
-
-* Basic information about you
-* Short statements about your research interests and what you hope to gain from SOAR²
-
-Preview a copy of [the application form and evaluation criteria here](https://docs.google.com/document/d/1aK46M_7EeNLn0FVSPeWySzbpEiXd0ene1Y7RT7K9HAQ/edit?usp=sharing).
-
-<br/>
+ -->
 
 
-## Selection criteria
-Successful applications will: 
+## Application and selection criteria
+
+Application closed on June 3, 2026. Successful applicants will be notified via email around mid June.
+
+Applications are evaluated based on the following criteria: 
 
 * Thoughtfully engage with a research question, topic, or problem
 * Demonstrate curiosity and openness to learning
@@ -90,6 +84,6 @@ We do **not** expect advanced technical skills or fully developed research plans
 
 
 ## Questions?
-Contact: rds [AT] library.ucsb.edu
+**Contact** rds [AT] library.ucsb.edu
 
 
