@@ -1,0 +1,7 @@
+---
+layout: page
+title: Article List
+permalink: /resources/article-list/
+---
+
+## Article List

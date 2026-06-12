@@ -11,6 +11,18 @@ items:
   name: Instructors
   icon_class: fas fa-user-tie
 
+- url_internal: /resources/
+  name: Resources
+  icon_class: fas fa-folder-open
+  subitems:
+    - url_internal: /resources/grants-and-fellowships/
+      name: Grants & Fellowships
+    - url_internal: /resources/conferences/
+      name: Conferences
+    - url_internal: /resources/article-list/
+      name: Article list
+
+
 ## Hide schedule during the application process
 #- url_internal: /schedule/
 #  name: Schedule

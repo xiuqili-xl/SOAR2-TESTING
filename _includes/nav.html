@@ -1,10 +1,30 @@
 <ul class="menu">
-    {% for item in site.data.nav.items %}
+  {% for item in site.data.nav.items %}
     <li>
-        {% if item.url_internal %}<a class="page-link" href="{{ item.url_internal | prepend: site.baseurl }}">
-        {% elsif item.url_external %}<a class="page-link" href="{{ item.url_external }}">{% endif %}
-            <i class="{{ item.icon_class }}"></i> {{ item.name }}
+      {% if item.url_internal %}
+        <a class="page-link"
+           href="{{ item.url_internal | prepend: site.baseurl }}">
+      {% elsif item.url_external %}
+        <a class="page-link" href="{{ item.url_external }}">
+      {% endif %}
+          <i class="{{ item.icon_class }}"></i> {{ item.name }}
         </a>
+
+      {% if item.subitems %}
+        <ul class="sub-menu">
+          {% for subitem in item.subitems %}
+            <li>
+              {% if subitem.url_internal %}
+                <a href="{{ subitem.url_internal | prepend: site.baseurl }}">
+              {% elsif subitem.url_external %}
+                <a href="{{ subitem.url_external }}">
+              {% endif %}
+                  {{ subitem.name }}
+                </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </li>
-    {% endfor %}
+  {% endfor %}
 </ul>
