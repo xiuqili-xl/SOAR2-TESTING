@@ -65,21 +65,6 @@ SOAR² will bring together UCSB undergraduate students from across disciplines (
 %}
  -->
 
-
-## Application and selection criteria
-
-Application closed on June 3, 2026. Successful applicants will be notified via email around mid June.
-
-Applications are evaluated based on the following criteria: 
-
-* Thoughtfully engage with a research question, topic, or problem
-* Demonstrate curiosity and openness to learning
-* Describe how you might explore a question using evidence, data, or other approaches
-* Express clear interest in the goals and themes of SOAR²
-* Provide specific and reflective responses about your interests and goals
-
-We do **not** expect advanced technical skills or fully developed research plans. We are more interested in how you think about research.
-
 <br/>
 
 
