@@ -52,8 +52,6 @@ SOAR² will bring together UCSB undergraduate students from across disciplines (
 
 **SOAR² Camp**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
 
-<br/>
-
 <!-- The code chunk below generates the application button -->
 <!--
 {% include button.html
