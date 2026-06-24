@@ -16,10 +16,14 @@ Embedding pdf saved in `static_files` on GitHub repo
 
 <iframe
   src="{{ '/static_files/SOAR2_Slide_Template.pdf' | relative_url }}#view=FitH"
-  width="100%"
-  height="800"
-  style="border: 1px solid #ddd;"
-  title="SOAR2 slide template PDF">
+  title="SOAR2 slide template PDF"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
 </iframe>
 
 
@@ -34,10 +38,14 @@ Embedding Google Slides via link (as preview)
 
 <iframe
   src="https://docs.google.com/presentation/d/1P6EqtzQtA4iatslwDgxd0ZYZF5q4L9Arr8Xrbqw04yQ/preview"                  
-  width="100%"
-  height="800"
-  style="border: 1px solid #ddd;"
-  title="SOAR2 flyer for demo purpose">
+  title="SOAR2 flyer for demo purpose"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
 </iframe>
 
 
