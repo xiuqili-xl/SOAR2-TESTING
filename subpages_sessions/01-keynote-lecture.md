@@ -6,6 +6,9 @@ permalink: /sessions/keynote/
 
 ## About Dr. James Fraser
 
+Add bio of Dr. Fraser
 
 
 ## About Dr. Fraser's Keynote Lecture
+
+Add description of Dr. Fraser's keynote talk. 
