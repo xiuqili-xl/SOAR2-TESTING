@@ -6,6 +6,13 @@ items:
 - url_internal: /sessions/               # ensures the page permalink and nav URL is /sessions/
   name: Sessions
   icon_class: fas fa-book-open
+  subitems:
+    - url_internal: /sessions/keynote/
+      name: Keynote Lecture
+    - url_internal: /sessions/module1/
+      name: Module 1: Entering Research
+    - url_internal: /sessions/module2/
+      name: Module 2: Data in Practice
 
 - url_internal: /instructors/
   name: Instructors
