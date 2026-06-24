@@ -2,8 +2,11 @@
 layout: page
 ---
 
+<!-- This line of code pulls content directly from the md file -->
 {{ content }}
 
+
+<!-- These lines of code generates table with information for each lecture -->
 <ul id="archive">
 {% for lecture in site.lectures %}
 <li class="archiveposturl" style="background: transparent">
@@ -21,7 +24,8 @@ layout: page
     {% endif %}
 
     <div class="content">
-        <!-- Remove this line of code; it formats sections as module.title (module.date)
+        <!-- Remove the following line of code; it formats sections as module.title (module.date) -->
+        <!-- 
         <span style="font-weight: bold;">{{ lecture.title }}</span> ({{ lecture.date | date: site.onlydateformat }})
         -->
 

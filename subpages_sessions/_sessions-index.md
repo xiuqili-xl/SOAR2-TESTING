@@ -1,7 +1,7 @@
 ---
 layout: lectures
-title: Modules
-permalink: /modules/    # change the page permalink and nav URL to /modules/, but leave the underlying collection/layout/include names as lectures
+title: Sessions
+permalink: /sessions/    # change the page permalink and nav URL to /sessions/, but leave the underlying collection/layout/include names as lectures
 ---
 
 ## Program Overview
