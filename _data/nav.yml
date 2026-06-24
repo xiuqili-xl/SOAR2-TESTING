@@ -3,8 +3,8 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url_internal: /modules/               # ensures the page permalink and nav URL is /modules
-  name: Modules
+- url_internal: /sessions/               # ensures the page permalink and nav URL is /sessions/
+  name: Sessions
   icon_class: fas fa-book-open
 
 - url_internal: /instructors/

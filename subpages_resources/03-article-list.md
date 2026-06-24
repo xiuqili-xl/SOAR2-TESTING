@@ -4,4 +4,6 @@ title: Article List
 permalink: /resources/article-list/
 ---
 
-## Article List
+## On Topic X
+
+## On Topic Y
