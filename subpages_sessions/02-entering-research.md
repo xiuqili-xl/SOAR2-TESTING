@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module 1: Entering Research
+title: "Module 1: Entering Research"
 permalink: /sessions/module-1/
 ---
 
