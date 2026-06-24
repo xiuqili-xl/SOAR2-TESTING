@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Module 1: Entering Research"
-permalink: /sessions/module-1/
+permalink: /sessions/module1/
 ---
 
 ## Heading 1
