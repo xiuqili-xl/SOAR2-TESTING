@@ -21,3 +21,24 @@ Embedding pdf saved in `static_files` on GitHub repo
   style="border: 1px solid #ddd;"
   title="SOAR2 slide template PDF">
 </iframe>
+
+
+<br/>
+
+## Handout
+
+Embedding pdf via GDrive link
+
+[//]: For the following links of code to work, double check permission for GDrive file. 
+[//]: Also, replace /view?... with /preview at the end of the GDrive file URL
+
+<iframe
+  src="https://drive.google.com/file/d/1n2Z2xXrzpW1KOvRtvBYgimNuMbdONq6b/preview"                  
+  width="100%"
+  height="800"
+  style="border: 1px solid #ddd;"
+  title="SOAR2 flyer for demo purpose">
+</iframe>
+
+
+<br/>
