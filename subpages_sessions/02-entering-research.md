@@ -25,15 +25,15 @@ Embedding pdf saved in `static_files` on GitHub repo
 
 <br/>
 
-## Handout
+## Slides 2
 
-Embedding pdf via GDrive link
+Embedding Google Slides via link (as preview)
 
-[//]: For the following links of code to work, double check permission for GDrive file. 
-[//]: Also, replace /view?... with /preview at the end of the GDrive file URL
+[//]: For the following lines of code to work, double check permission for Google Slides. Make sure anyone with the link can View.
+[//]: Also, replace /view?... with /preview at the end of the Gslide URL
 
 <iframe
-  src="https://drive.google.com/file/d/1n2Z2xXrzpW1KOvRtvBYgimNuMbdONq6b/preview"                  
+  src="https://docs.google.com/presentation/d/1P6EqtzQtA4iatslwDgxd0ZYZF5q4L9Arr8Xrbqw04yQ/preview"                  
   width="100%"
   height="800"
   style="border: 1px solid #ddd;"
