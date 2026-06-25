@@ -10,12 +10,12 @@ Learn how research actually works across disciplines and how you can get involve
 
 <br/>
 
-## Slides
+## Save slides within GitHub repo
 
-Embedding pdf saved in `static_files` on GitHub repo
+PDFs are saved in `session_materials` on GitHub repo
 
 <iframe
-  src="{{ '/static_files/SOAR2_Slide_Template.pdf' | relative_url }}#view=FitH"
+  src="{{ '/session_materials/SOAR2_Slide_Template.pdf' | relative_url }}#view=FitH"
   title="SOAR2 slide template PDF"
   style="
     width: 100%;
@@ -29,9 +29,9 @@ Embedding pdf saved in `static_files` on GitHub repo
 
 <br/>
 
-## Slides 2
+## Display Google Slides directly
 
-Embedding Google Slides via link (as preview)
+Embedding Google Slides via sharing link (as preview). This option looks better on mobile...
 
 [//]: For the following lines of code to work, double check permission for Google Slides. Make sure anyone with the link can View.
 [//]: Also, replace /view?... with /preview at the end of the Gslide URL

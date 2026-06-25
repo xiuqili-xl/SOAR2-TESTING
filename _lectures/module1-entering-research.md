@@ -14,7 +14,7 @@ hide_from_announcments: true
 #links: 
 #    - url: https://google.com
 #      name: Session Slides
-#    - url: /static_files/presentations/lec.zip
+#    - url: /session_materials/from-template/linalg_lecture_1.pdf
 #      name: notes
 ---
 [//]: # Item in this section gets added to the Schedule page
