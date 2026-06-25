@@ -8,6 +8,8 @@ permalink: /sessions/keynote/
 
 Add bio of Dr. Fraser
 
+<br/>
+
 
 ## About Dr. Fraser's Keynote Lecture
 

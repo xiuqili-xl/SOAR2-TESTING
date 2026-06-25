@@ -10,12 +10,20 @@ Learn how research actually works across disciplines and how you can get involve
 
 <br/>
 
+
+## Instructors
+
+TBA
+
+<br/>
+
+
 ## Save slides within GitHub repo
 
-PDFs are saved in `session_materials` on GitHub repo
+PDS should be saved and organized in `session_materials` on GitHub repo
 
 <iframe
-  src="{{ '/session_materials/SOAR2_Slide_Template.pdf' | relative_url }}#view=FitH"
+  src="{{ '/session_materials/temp/SOAR2_Slide_Template.pdf' | relative_url }}#view=FitH"
   title="SOAR2 slide template PDF"
   style="
     width: 100%;
