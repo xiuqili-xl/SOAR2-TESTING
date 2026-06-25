@@ -7,7 +7,7 @@
       {% elsif item.url_external %}
         <a class="page-link" href="{{ item.url_external }}">
       {% endif %}
-          <i class="{{ item.icon_class }}"></i> {{ item.name }}
+          <i class="{{ item.icon_class }}"></i> {{ item.name }}{% if item.subitems %} <span class="submenu-caret">▾</span>{% endif %}
         </a>
 
       {% if item.subitems %}

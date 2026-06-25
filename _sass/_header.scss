@@ -72,6 +72,11 @@
 	vertical-align: top;
 }
 
+.site-nav .submenu-caret {
+  font-size: 0.75em;
+  margin-left: 4px;
+}
+
 .site-nav a {
 	display: block;
         color: $header-text-color;
