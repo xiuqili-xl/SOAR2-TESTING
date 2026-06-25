@@ -20,9 +20,9 @@ TBA
 
 ## Code?
 
-This website is built with Jekyll. Jekyll will render Markdown, but don't think it will execute R chunks like a .qmd file? (Open to suggestions)
+This website is built with Jekyll. Jekyll will render Markdown, but don't think it will execute R chunks like a .qmd file? 🤔 Open to suggestions 🙏
 
-We could embed non-running code chunks.
+We could, however, embed non-running code chunks. See below
 
 ```r
 library(readr)
@@ -51,6 +51,7 @@ ggplot(data = bw_summary,
 
 So if we want to share any script with students and ask them to run it...
 
-* We could have the script on a .md file as part of this website and ask student to copy and paste into their IDE
-* Or we could create a repo just for that modules, and hyperlink that repo here. Students will only need to pull that module specific repo and work with it. This way students don't have to deal with the repo for this website, which has way too much unrelated layers and content...
+- We could have code chunks on a .md file as part of this website. We'll then ask student to copy and paste into their IDE.
+- OR we could create a repo just for that modules, and hyperlink that repo here. Students will only need to pull that module-specific repo and work with it. 
+    - This is probably the cleaner option: students don't have to deal with the repo for this website, which has way too much unrelated layers and content...
 
