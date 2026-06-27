@@ -22,8 +22,10 @@ items:
   name: Resources
   icon_class: fas fa-folder-open
   subitems:
-    - url_internal: /resources/grants-and-fellowships/
-      name: Grants & Fellowships
+    - url_internal: /resources/research-programs/
+      name: Research Programs
+    - url_internal: /resources/grants-and-awards/
+      name: Grants & Awards
     - url_internal: /resources/conferences/
       name: Conferences
     - url_internal: /resources/article-list/
