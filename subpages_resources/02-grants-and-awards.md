@@ -18,11 +18,11 @@ _**Disclaimer:** Program information on this page is current as of Aug 2026 and 
 
 ## UCSB Opportunities
 
-_**UCSB offers a variety of grants and awards that support undergraduate research and scholarly activities. Some opportunities are open to students from all disciplines, while others are intended for specific fields of study.**_
+UCSB offers a variety of grants and awards that support undergraduate research and scholarly activities. Some opportunities are open to students from all disciplines, while others are intended for specific fields of study.
 
 | Opportunity | Description |
 |-------------|-------------|
-| [**Career Path Grants**](https://careerpathways.csep.ucsb.edu/grants/career-pathways-grants), **CSEP** | Supports students attending or presenting at conferences, visiting graduate school programs, and other career & professional events. Applications open in the Fall and are reviewed monthly until funding is exhausted. |
+| [**Career Path Grants**](https://careerpathways.csep.ucsb.edu/grants/career-pathways-grants), CSEP | Supports students attending or presenting at conferences, visiting graduate school programs, and other career & professional events. Applications open in the Fall and are reviewed monthly until funding is exhausted. |
 | [**Chancellor’s Award in Undergraduate Research**](https://urca.ucsb.edu/funding-and-awards/chancellors-award-undergraduate-research) | Recognizes four distinguished undergraduate researchers each year, one from each broad disciplinary division: science, social sciences, engineering, and humanities & fine arts. |
 | [**The Gene & Susan Lucas Undergraduate Research Fund**](https://academics.sa.ucsb.edu/scholarships) | Supports research for first-generation UCSB students in STEM fields. Funds may be used for stipend, research materials, travel, conferences, or field experience. |
 | [**The Hanson Family Conference Travel Grant**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) | Awarded to one student each quarter, providing the awardee with up to $1000 in research conference expenses. |
@@ -38,7 +38,7 @@ _**UCSB offers a variety of grants and awards that support undergraduate researc
 
 ## National & Federal Programs
 
-_**ADD INTRO BLURB**_
+[ADD INTRO BLURB]
 
 | Opportunity | Description |
 |-------------|-------------|
@@ -53,7 +53,7 @@ _**ADD INTRO BLURB**_
 
 ## Professional & Disciplinary Organizations
 
-_**ADD INTRO BLURB**_
+[ADD INTRO BLURB]
 
 ADD LIST
 
