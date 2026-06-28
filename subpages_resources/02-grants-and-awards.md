@@ -35,38 +35,20 @@ _**UCSB offers a variety of grants and awards that support undergraduate researc
 }
 
 .opportunities-table tbody tr:nth-child(even) {
-  background-color: #DAE6E6;
+  background-color: #f5fcfc;
 }
 </style>
 
 | Opportunity | Description |
 |-------------|-------------|
-| [**Career Path Grants**](https://careerpathways.csep.ucsb.edu/grants/career-pathways-grants) from the **Center for Science & Engineering Partnerships (CSEP)** | students attending or presenting at conferences, visiting graduate school programs, and other career & professional events. Applications open in the Fall and are reviewed monthly until funding is exhausted. |
-| [**Chancellor’s Award in Undergraduate Research**](https://urca.ucsb.edu/funding-and-awards/chancellors-award-undergraduate-research) | recognizes four distinguished undergraduate researchers each year, one from each broad disciplinary division: science, social sciences, engineering, and humanities & fine arts. |
+| [**Career Path Grants**](https://careerpathways.csep.ucsb.edu/grants/career-pathways-grants), **Center for Science & Engineering Partnerships (CSEP)** | Supports students attending or presenting at conferences, visiting graduate school programs, and other career & professional events. Applications open in the Fall and are reviewed monthly until funding is exhausted. |
+| [**Chancellor’s Award in Undergraduate Research**](https://urca.ucsb.edu/funding-and-awards/chancellors-award-undergraduate-research) | Recognizes four distinguished undergraduate researchers each year, one from each broad disciplinary division: science, social sciences, engineering, and humanities & fine arts. |
 | [**The Gene & Susan Lucas Undergraduate Research Fund**](https://academics.sa.ucsb.edu/scholarships) | Supports research for first-generation UCSB students in STEM fields. Funds may be used for stipend, research materials, travel, conferences, or field experience. |
-| [**The Hanson Family Conference Travel Grant**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) | awarded to one student each quarter, providing the awardee with up to $1000 in research conference expenses. |
-| [**The Kennedy/Graves Award**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) | supports students in any academic discipline conducting research related to Black Studies. |
-| [**The Library Award for Undergraduate Research (LAUR)**](https://www.library.ucsb.edu/library-award-undergraduate-research) | recognizes students from any discipline who have produced scholarly or creative work that makes expert and sophisticated use of UCSB Library resources. The award is presented annually, and the application window is generally during the first half of the Spring quarter. |
-| [**The Undergraduate Research and Creative Activities (URCA) Grant**](https://urca.ucsb.edu/urca-grant/overview) | provides up to $750 to help students from any major to pursue their original research or creative activities. Call for applications occurs annually during the Fall quarter. |
+| [**The Hanson Family Conference Travel Grant**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) | Awarded to one student each quarter, providing the awardee with up to $1000 in research conference expenses. |
+| [**The Kennedy/Graves Award**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) | Supports students in any academic discipline conducting research related to Black Studies. |
+| [**The Library Award for Undergraduate Research (LAUR)**](https://www.library.ucsb.edu/library-award-undergraduate-research) | Recognizes students from any discipline who have produced scholarly or creative work that makes expert and sophisticated use of UCSB Library resources. The award is presented annually, and the application window is generally during the first half of the Spring quarter. |
+| [**The Undergraduate Research and Creative Activities (URCA) Grant**](https://urca.ucsb.edu/urca-grant/overview) | Provides up to $750 to help students from any major to pursue their original research or creative activities. Call for applications occurs annually during the Fall quarter. |
 {: .opportunities-table}
-
-
-<br/>
-
-* The **Center for Science & Engineering Partnerships (CSEP)** offers [**Career Path Grants**](https://careerpathways.csep.ucsb.edu/grants/career-pathways-grants) to support students attending or presenting at conferences, visiting graduate school programs, and other career & professional events. Applications open in the Fall and are reviewed monthly until funding is exhausted. 
-
-* [**The Chancellor’s Award in Undergraduate Research**](https://urca.ucsb.edu/funding-and-awards/chancellors-award-undergraduate-research) recognizes four distinguished undergraduate researchers each year, one from each broad disciplinary division: science, social sciences, engineering, and humanities & fine arts.
-
-* [**The Gene & Susan Lucas Undergraduate Research Fund**](https://academics.sa.ucsb.edu/scholarships) supports research for first-generation UCSB students in STEM fields. Funds may be used for stipend, research materials, travel, conferences, or field experience.
-
-* [**The Hanson Family Conference Travel Grant**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) is awarded to one student each quarter, providing the awardee with up to $1000 in research conference expenses.
-
-* [**The Kennedy/Graves Award**](https://urca.ucsb.edu/funding-and-awards/hanson-family-conference-travel-grant) supports students in any academic discipline conducting research related to Black Studies.
-
-* [**The Library Award for Undergraduate Research (LAUR)**](https://www.library.ucsb.edu/library-award-undergraduate-research) recognizes students from any discipline who have produced scholarly or creative work that makes expert and sophisticated use of UCSB Library resources. The award is presented annually, and the application window is generally during the first half of the Spring quarter. 
-
-* [**The Undergraduate Research and Creative Activities (URCA) Grant**](https://urca.ucsb.edu/urca-grant/overview) provides up to $750 to help students from any major to pursue their original research or creative activities. Call for applications occurs annually during the Fall quarter.
-
 
 <br/>
 
@@ -75,10 +57,11 @@ _**UCSB offers a variety of grants and awards that support undergraduate researc
 
 _**ADD INTRO BLURB**_
 
-[**The Council on Undergraduate Research (CUR)**](https://www.cur.org/membership-community/honors-awards/student-awards/) offers numerous awards to recognize and support undergraduate research. The awards cover a wide range of fields of study, including arts and humanities, STEM, and social sciences. 
 
-[**The NIH Undergraduate Scholarship Program (UGSP)**](https://www.training.nih.gov/research-training/pb/ugsp/) is a financial needs-based scholarship for students committed to biomedical, behavioral and social science research. The program provides support for tuition, educational, and reasonable living expenses. For each year of scholarship support, scholars commit to a 10-week summer internship at NIH and 1 year of full-time work at NIH post-graduation.
-
+| Opportunity | Description |
+|-------------|-------------|
+| [**The Council on Undergraduate Research (CUR)**](https://www.cur.org/membership-community/honors-awards/student-awards/) | Offers numerous awards to recognize and support undergraduate research. The awards cover a wide range of fields of study, including arts and humanities, STEM, and social sciences. |
+| [**The NIH Undergraduate Scholarship Program (UGSP)**](https://www.training.nih.gov/research-training/pb/ugsp/) | A financial needs-based scholarship for students committed to biomedical, behavioral and social science research. The program provides support for tuition, educational, and reasonable living expenses. For each year of scholarship support, scholars commit to a 10-week summer internship at NIH and 1 year of full-time work at NIH post-graduation. |
 
 <br/>
 
