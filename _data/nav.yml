@@ -9,8 +9,8 @@ items:
   subitems:
     - url_internal: /sessions/for-instructors/
       name: For Instructors
-    - url_internal: /sessions/keynote/
-      name: Keynote Lecture
+#    - url_internal: /sessions/keynote/
+#      name: Keynote Lecture
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
