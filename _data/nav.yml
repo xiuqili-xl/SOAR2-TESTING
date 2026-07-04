@@ -7,10 +7,10 @@ items:
   name: Sessions
   icon_class: fas fa-book-open
   subitems:
-#    - url_internal: /sessions/for-instructors/
-#      name: README for Instructors
-#    - url_internal: /sessions/keynote/
-#      name: Keynote Lecture
+    - url_internal: /sessions/for-instructors/
+      name: README for Instructors
+    - url_internal: /sessions/keynote/
+      name: Keynote Lecture
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
@@ -24,23 +24,29 @@ items:
     - url_internal: /sessions/module6/
       name: "Module 6: Open Research Identity"
 
-
 - url_internal: /instructors/
   name: Instructors
   icon_class: fas fa-user-tie
 
-#- url_internal: /resources/
-#  name: Resources
-#  icon_class: fas fa-folder-open
-#  subitems:
-#    - url_internal: /resources/research-programs/
-#      name: Research Programs
-#    - url_internal: /resources/grants-and-awards/
-#      name: Grants & Awards
-#    - url_internal: /resources/conferences/
-#      name: Conferences
-#    - url_internal: /resources/article-list/
-#      name: Article list
+- url_internal: /resources/
+  name: Resources
+  icon_class: fas fa-folder-open
+  subitems:
+    - url_internal: /resources/research-programs/
+      name: Research Programs
+    - url_internal: /resources/grants-and-awards/
+      name: Grants & Awards
+    - url_internal: /resources/conferences/
+      name: Conferences
+    - url_internal: /resources/article-list/
+      name: Article list
+
+
+## ABOUT page reserved for program info that people who might consider reusing the curriculum would need
+## Once program wraps, need to figure out what goes on the HOME vs ABOUT.
+- url_internal: /about/
+  name: About
+  icon_class: fas fa-info-circle
 
 
 ## Hide schedule during the application process
@@ -48,10 +54,6 @@ items:
 #  name: Schedule
 #  icon_class: fas fa-calendar-alt
 
-## About page reserved for program info after the program starts. Hide for now.
-#- url_internal: /about/
-#  name: About
-#  icon_class: fas fa-info-circle
 
 ## Hide Assignment page bc we probably won't need it 
 #- url_internal: /assignments/
