@@ -7,29 +7,40 @@ items:
   name: Sessions
   icon_class: fas fa-book-open
   subitems:
-    - url_internal: /sessions/keynote/
-      name: Keynote Lecture
+    - url_internal: /sessions/for-instructors/
+      name: For Instructors
+#    - url_internal: /sessions/keynote/
+#      name: Keynote Lecture
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
       name: "Module 2: Data in Practice"
+    - url_internal: /sessions/module3/
+      name: "Module 3: Documentation & Reproducibility"
+    - url_internal: /sessions/module4/
+      name: "Module 4: Communicating Research"
+    - url_internal: /sessions/module5/
+      name: "Module 5: Gen AI in Research"
+    - url_internal: /sessions/module6/
+      name: "Module 6: Open Research Identity"
+
 
 - url_internal: /instructors/
   name: Instructors
   icon_class: fas fa-user-tie
 
-- url_internal: /resources/
-  name: Resources
-  icon_class: fas fa-folder-open
-  subitems:
-    - url_internal: /resources/research-programs/
-      name: Research Programs
-    - url_internal: /resources/grants-and-awards/
-      name: Grants & Awards
-    - url_internal: /resources/conferences/
-      name: Conferences
-    - url_internal: /resources/article-list/
-      name: Article list
+#- url_internal: /resources/
+#  name: Resources
+#  icon_class: fas fa-folder-open
+#  subitems:
+#    - url_internal: /resources/research-programs/
+#      name: Research Programs
+#    - url_internal: /resources/grants-and-awards/
+#      name: Grants & Awards
+#    - url_internal: /resources/conferences/
+#      name: Conferences
+#    - url_internal: /resources/article-list/
+#      name: Article list
 
 
 ## Hide schedule during the application process
