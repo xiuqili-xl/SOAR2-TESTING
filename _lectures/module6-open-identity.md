@@ -11,7 +11,9 @@ thumbnail_alt: Icon for the Open Research Identity module
 
 hide_from_announcments: true
 
-#links: 
+links: 
+    - url: /sessions/module6/
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 ---

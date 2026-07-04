@@ -18,7 +18,7 @@ Participants will:
 * Consider the opportunities and limitations of using generative AI in research
 * Leave with a clear plan for your next steps in research
 
-See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information about the program, including the tentative schedule and module descriptions.
+See the **[SESSIONS]({{ "/sessions/" | relative_url }}) tab** for more information about the program, including the tentative schedule and module descriptions.
 
 <br/>
 
@@ -52,7 +52,7 @@ SOAR² will bring together UCSB undergraduate students from across disciplines (
 
 **SOAR² Camp**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
 
-<!-- The code chunk below generates the application button -->
+<!-- The code chunk below creates the application button -->
 <!--
 {% include button.html
   button_name="APPLY HERE!"

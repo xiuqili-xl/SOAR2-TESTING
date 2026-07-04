@@ -11,7 +11,9 @@ thumbnail_alt: Icon for the Generative AI in Research module
 
 hide_from_announcments: true
 
-#links: 
+links: 
+    - url: /sessions/module5/
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 ---

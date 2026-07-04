@@ -12,6 +12,8 @@ thumbnail_alt: Icon for the Communicating Research module
 hide_from_announcments: true
 
 links: 
+    - url: /sessions/module4/
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com

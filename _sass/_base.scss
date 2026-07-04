@@ -518,9 +518,7 @@ a.tosu {
 }
 
 
-/**
- * Buttons
- */
+/* Application Button */
 .soar-apply-btn {
   background-color: #09847A !important;
   border-color: #09847A !important;
@@ -537,4 +535,27 @@ a.tosu {
   background-color: #076b63 !important;
   border-color: #076b63 !important;
   color: #fff !important;
+}
+
+
+/* Opportunities Table under Resources */
+.opportunities-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.opportunities-table th,
+.opportunities-table td {
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid #ddd;
+}
+
+.opportunities-table thead th {
+  background-color: #DAE6E6;
+}
+
+.opportunities-table tbody tr:nth-child(even) {
+  background-color: #f6f9fb;
 }

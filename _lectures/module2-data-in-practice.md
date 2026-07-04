@@ -11,9 +11,9 @@ thumbnail_alt: Icon for the Data in Practice module
 
 hide_from_announcments: true
 
-#links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
+links: 
+    - url: /sessions/module2/
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com

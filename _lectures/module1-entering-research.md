@@ -11,10 +11,12 @@ thumbnail_alt: Icon for the Entering Research module
 
 hide_from_announcments: true
 
-#links: 
+links: 
+    - url: /sessions/module1/
+      name: Module webpage
 #    - url: https://google.com
 #      name: Session Slides
-#    - url: /static_files/presentations/lec.zip
+#    - url: /session_materials/from-template/linalg_lecture_1.pdf
 #      name: notes
 ---
 [//]: # Item in this section gets added to the Schedule page
