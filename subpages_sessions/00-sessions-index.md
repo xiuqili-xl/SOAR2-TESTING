@@ -6,12 +6,14 @@ permalink: /sessions/    # change the page permalink and nav URL to /sessions/, 
 
 ## Program Overview
 
-![Tentative program schedule for SOAR², showing all-day programming for Sep 21 through Sep 23. Sep 21: Entering Research (AM), Data in Practice (PM), and Dinner with keynote speaker. Sep 22: Keynote Lecture (AM), Documentation & Reprodocibility (AM); Communicating Research (PM), and Visit to a research facility (PM), Sep 23: Generative AI in Research (AM), Open Research Identity (AM), Open Project Plan Creation (PM), and Visit to a research facility (PM)]({{ "/_images/schedule.png" | relative_url }})
+![Tentative program schedule for SOAR², showing all-day programming for Sep 21 through Sep 23. Sep 21: Entering Research (AM), Research Facility Visit (PM), and Data in Practice (PM). Sep 22: Keynote Lecture (AM), Documentation & Reprodocibility (AM), Communicating Research (PM), and Research Facility Visit (PM), Sep 23: Generative AI in Research (AM), Open Research Identity (AM), Pasta and Possibilities with Campus Programs (over lunch), and Open Research Plan Presentation (PM)]({{ "/_images/schedule.png" | relative_url }})
 
-***Note: schedule of specific sessions subject to change.***
+_**Note: schedule of specific sessions subject to change.**_
 
 <br/>
 
 ## Module Description
 
-***SOAR² is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.*** 
+_**SOAR² is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.**_
+
+_**Module description subject to change.**_

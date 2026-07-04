@@ -13,7 +13,7 @@ hide_from_announcments: true
 
 links: 
     - url: /sessions/module1/
-      name: Module 1 Webpage
+      name: Module webpage
 #    - url: https://google.com
 #      name: Session Slides
 #    - url: /session_materials/from-template/linalg_lecture_1.pdf

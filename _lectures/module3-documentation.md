@@ -13,7 +13,7 @@ hide_from_announcments: true
 
 links: 
     - url: /sessions/module3/
-      name: Module 3 Webpage
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com

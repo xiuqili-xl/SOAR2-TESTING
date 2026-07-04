@@ -13,7 +13,7 @@ hide_from_announcments: true
 
 links: 
     - url: /sessions/module5/
-      name: Module 5 Webpage
+      name: Module webpage
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 ---
