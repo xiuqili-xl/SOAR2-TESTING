@@ -14,4 +14,4 @@ permalink: /sessions/    # change the page permalink and nav URL to /sessions/, 
 
 ## Module Description
 
-***SOAR² is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.*** 
+***SOAR² is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.***
