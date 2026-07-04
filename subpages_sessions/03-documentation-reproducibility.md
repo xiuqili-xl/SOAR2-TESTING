@@ -18,7 +18,7 @@ Renata Curty and Julien Brun
 <br/>
 
 
-## Slides
+## Slides and Handouts
 
 TBA
 

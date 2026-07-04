@@ -18,7 +18,7 @@ Xiuqi "Jade" Li and Anne Cong-Huyen
 <br/>
 
 
-## Slides
+## Slides and Handouts
 
 TBA
 

@@ -18,7 +18,7 @@ Greg Janeé and Jose Niño Muriel
 <br/>
 
 
-## Slides
+## Slides and Handouts
 
 TBA
 

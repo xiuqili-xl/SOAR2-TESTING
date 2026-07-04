@@ -18,7 +18,7 @@ Jairo Melo Flórez and Greg Janeé
 <br/>
 
 
-## Slides
+## Slides and Handouts
 
 TBA
 
