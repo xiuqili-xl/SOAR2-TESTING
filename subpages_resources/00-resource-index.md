@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-This sections provides info on resource for undergrad student etc.
+This sections provides info on resource for undergrad students
 
 It includes
 * TBA
