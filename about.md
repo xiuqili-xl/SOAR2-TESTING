@@ -76,7 +76,13 @@ SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](htt
 
 SOAR² is also made possible through the generous support of campus partners who welcome students into their spaces and share their expertise. We are grateful to the many research facilities, centers, and campus programs that contributed to SOAR².
 
-[[ADD image with logos of campus partners]]
+
+<div class="about-highlight-box" markdown="1">
+
+**Add image with logos of campus partners**
+
+</div>
+
 
 SOAR² is supported through the **Open Research Community Accelerator (ORCA) [Catalytic Awards Program](https://www.orcaopen.org/work/cap)**, which funds innovative projects that advance open research practices and community engagement.
 
