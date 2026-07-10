@@ -6,6 +6,12 @@ permalink: /about/
 
 ## What is SOAR²?
 
+<img
+  src="{{ '/_images/program/soar2-hexagon.png' | relative_url }}"
+  alt="SOAR² hexagon graphic"
+  style="float: right; width: 25%; max-width: 260px; min-width: 150px; margin: 0 0 1rem 1.5rem;"
+/>
+
 **The Summer Open and Reproducible Research (SOAR²) Camp** is a three-day, hands-on program that introduces UCSB students to the research process while building practical skills for working with data, documenting research, and engaging in open scholarship.
 
 Designed for undergraduate students from all disciplines and levels of research experience, SOAR² combines interactive workshops, small group discussions, hands-on activities, and conversations with researchers to help students navigate research with confidence. Throughout the program, students develop an understanding of how research works, learn practices that support transparency and reproducibility, and develop plans that they can apply to their own research journey.
