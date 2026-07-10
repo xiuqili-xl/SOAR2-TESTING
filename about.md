@@ -31,7 +31,6 @@ SOAR² also recognizes that modern research is increasingly collaborative and in
 
 </div>
 
-
 <br/>
 
 
@@ -59,7 +58,6 @@ SOAR² extends beyond traditional workshops. The program combines interactive in
 * **Visits to campus** research facilities provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
 * **Pasta & Possibilities** brings together representatives from campus programs that support undergraduate research. This informal networking lunch helps students discover research opportunities, campus resources, and pathways for continued involvement in research beyond SOAR²: 
 
-
 <br/>
 
 
@@ -72,7 +70,6 @@ SOAR² is also made possible through the generous support of campus partners who
 [[ADD image with logos of campus partners]]
 
 SOAR² is supported through the **Open Research Community Accelerator (ORCA) [Catalytic Awards Program](https://www.orcaopen.org/work/cap)**, which funds innovative projects that advance open research practices and community engagement.
-
 
 <br/>
 
