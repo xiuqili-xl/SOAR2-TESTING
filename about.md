@@ -51,7 +51,7 @@ By the end of SOAR², participants will be able to
 * Understand what it means to do research openly and responsibly
 * Build a foundation for communicating research
 * Think critically about the opportunities and limitations of Gen AI use in research
-* Develop a plan for the next steps in your research journey
+* Develop a plan for the next steps in their research journey
 
 <br/>
 
@@ -65,12 +65,14 @@ SOAR² extends beyond traditional workshops. The program combines interactive in
 * **Visits to campus** research facilities provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
 * **Pasta & Possibilities** brings together representatives from campus programs that support undergraduate research. This informal networking lunch helps students discover research opportunities, campus resources, and pathways for continued involvement in research beyond SOAR²: 
 
+See the **[SESSIONS]({{ "/sessions/" | relative_url }}) page** for more information, including the program schedule and module descriptions.
+
 <br/>
 
 
 ## Organizers & Partners
 
-SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](https://www.library.ucsb.edu/research-data-services)** at the UCSB Library in partnership with the **[Office of Undergraduate Research and Creative Activities (URCA)](https://urca.ucsb.edu/)**. It together librarians, research facilitators, and invited speakers who contribute expertise across research methods, data practices, scholarly communication, and open scholarship. See the [INSTRUCTORS]({{ "/instructors/" | relative_url }}) page for intructor bios. 
+SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](https://www.library.ucsb.edu/research-data-services)** at the UCSB Library in partnership with the **[Office of Undergraduate Research and Creative Activities (URCA)](https://urca.ucsb.edu/)**. It together librarians, research facilitators, and invited speakers who contribute expertise across research methods, data practices, scholarly communication, and open scholarship. See the **[INSTRUCTORS]({{ "/instructors/" | relative_url }}) page** for intructor bios. 
 
 SOAR² is also made possible through the generous support of campus partners who welcome students into their spaces and share their expertise. We are grateful to the many research facilities, centers, and campus programs that contributed to SOAR².
 
