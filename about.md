@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About SOAR²
 permalink: /about/
 ---
 
@@ -18,6 +18,19 @@ Designed for undergraduate students from all disciplines and levels of research 
 Research often comes with a *hidden curriculum* — the expectations, practices, and norms that experienced researchers learn over time but are rarely taught explicitly. At the same time, today’s researchers are increasingly expected to manage data responsibly, document their work clearly, collaborate effectively, and share research in transparent and reproducible ways. SOAR² was created to help bridge these gaps. Rather than treating open research as an advanced or specialized topic, the program introduced openness, transparency, and responsible research practices as integral parts of the research process early in students’ research journey.
 
 SOAR² also recognizes that modern research is increasingly collaborative and interdisciplinary. Researchers often work across disciplinary boundaries and draw on diverse methodologies, forms of evidence, and ways of asking questions. By bringing together students from different academic backgrounds, SOAR² aims to broaden participants’ perspectives on how research is conducted, while emphasizing that many core research practices — such as careful documentation, responsible data management, and clear communication — are valuable across disciplines.
+
+<div class="about-highlight-box" markdown="1">
+
+**Curriculum Design Principles**
+
+* **Impactful**: build a practical foundation in open and reproducible research through concepts and skills undergraduate students can apply immediately
+* **Initiating**: provide a strong starting point for students’ research journey while equipping them with pathways and resources for continued learning beyond SOAR²
+* **Illuminating**: demystify research by making expectations, norms, and workflows explicit rather than assumed
+* **Integrated**: present openness and responsible research as integral components of good research, not optional additions
+* **Interdisciplinary**: create opportunities for students to learn from different disciplines and appreciate both the diversity and the shared principles that underpin rigorous research
+
+</div>
+
 
 <br/>
 
