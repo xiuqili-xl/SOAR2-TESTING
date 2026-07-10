@@ -62,7 +62,7 @@ SOAR² extends beyond traditional workshops. The program combines interactive in
 
 * **Six interconnected modules** explore different stages of the research process. Through hands-on activities, collaborative discussions, and reflection exercises, students build practical skills they can apply to their own research.
 * **Keynote lecture** from a researcher actively engaged in open and reproducible science. Participants hear firsthand how openness, transparency, and collaboration have shaped a research career and influenced scientific discovery.
-* **Visits to campus** research facilities provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
+* **Visits to campusresearch facilities**  provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
 * **Pasta & Possibilities** brings together representatives from campus programs that support undergraduate research. This informal networking lunch helps students discover research opportunities, campus resources, and pathways for continued involvement in research beyond SOAR²: 
 
 See the **[SESSIONS]({{ "/sessions/" | relative_url }}) page** for more information, including the program schedule and module descriptions.
