@@ -8,6 +8,8 @@ permalink: /sessions/module6/
 
 Start developing your presence as a researcher. You’ll learn how to create a scholarly profile, showcase your work, and identify opportunities to grow your skills and experience. This module also helps you think about your next steps and how to navigate research environments with confidence.
 
+[ADD module level learning objectives]
+
 <br/>
 
 

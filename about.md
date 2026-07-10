@@ -41,7 +41,7 @@ SOAR² also recognizes that modern research is increasingly collaborative and in
 <br/>
 
 
-## Learning Objectives
+## Program Learning Objectives
 
 By the end of SOAR², participants will be able to
 
