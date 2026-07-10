@@ -4,13 +4,13 @@ title: About SOAR²
 permalink: /about/
 ---
 
-## What is SOAR²?
-
 <img
   src="{{ '/_images/program/soar2-hexagon.png' | relative_url }}"
   alt="SOAR² hexagon graphic"
-  style="float: right; width: 30%; max-width: 300px; min-width: 200px; margin: 0 0 1rem 1.5rem;"
+  style="float: right; width: 30%; max-width: 300px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
 />
+
+## What is SOAR²?
 
 **The Summer Open and Reproducible Research (SOAR²) Camp** is a three-day, hands-on program that introduces UCSB students to the research process while building practical skills for working with data, documenting research, and engaging in open scholarship.
 
