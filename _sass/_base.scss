@@ -570,3 +570,49 @@ a.tosu {
     border-radius: 4px;
     background-color: #c8dddd;
 }
+
+
+/* Home page program feature boxes */
+
+.program-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.program-feature-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+}
+
+.program-feature-card__image {
+  flex: 0 0 35%;
+  width: 35%;
+  max-width: 120px;
+  height: auto;
+  object-fit: contain;
+}
+
+.program-feature-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.program-feature-card__content h3 {
+  margin-top: 0;
+}
+
+.program-feature-card__content p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .program-feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
