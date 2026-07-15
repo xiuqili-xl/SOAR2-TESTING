@@ -14,9 +14,11 @@ items:
     - url_internal: /sessions/for-instructors/
       name: README for Instructors
     - url_internal: /sessions/
-      name: Program Overview
+      name: Program Schedule and Session Overview
     - url_internal: /sessions/keynote/
       name: Keynote Lecture
+    - url_internal: /sessions/facility/
+      name: Research Facility Visits
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
@@ -44,8 +46,7 @@ items:
       name: Article list
 
 
-## ABOUT page reserved for program info that people who might consider reusing the curriculum would need
-## Once program wraps, need to figure out what goes on the HOME vs ABOUT.
+## ABOUT page with program info -- written more for people who might consider reusing the curriculum
 - url_internal: /about/
   name: About
   icon_class: fas fa-info-circle
@@ -61,6 +62,7 @@ items:
 #- url_internal: /assignments/
 #  name: Assignments
 #  icon_class: fas fa-user-graduate
+
 
 ## Example of how to link to 
 #- url_external: https://www.library.ucsb.edu/

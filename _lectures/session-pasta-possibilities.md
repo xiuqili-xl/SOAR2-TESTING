@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 9
 home_day_label: "Day 3"
-home_card_description: "Connect with campus programs, discover research opportunities and expand your network over lunch"
+home_card_description: "Connect with campus programs, discover research opportunities, and expand your network over lunch"
 
 session_type: "lunch"
 session_type_key: "special"
