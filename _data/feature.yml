@@ -4,18 +4,21 @@
 # Note, currently using placeholders for images
 
 - title: Hands-on Learning
-  description: Develop practical research skills through guided exercises and real-world examples.
+  description: Develop practical research skills through interactive workshops, guided exercises, and real-world examples
   image: /_images/entity/rds-logo.png
   image_alt: Participants collaborating during a workshop
 
-- title: Open & Reproducible Research
-  description: Build workflows that make scientific analyses clearer, more reliable, and reusable.
+- title: Open Research in Practice
+  description: Discover how transparency, documentation, and responsible research practices strengthen research across disciplines
   image: /_images/program/soar2-hexagon.png
   image_alt: Diagram representing a reproducible research workflow
 
 - title: Collaborative Community
-  description: Learn alongside researchers, instructors, and peers from a range of disciplines.
+  description: Learn alongside instructors, researchers, and peers from diverse disciplines while building your research network
   image: /_images/program/soar2-hexagon.png
   image_alt: A group of researchers working together
 
-
+- title: Your Research Journey
+  description: Leave with an Open Research Plan and practical next steps to continue growing as a researcher
+  image: /_images/program/soar2-hexagon.png
+  image_alt: A group of researchers working togethe

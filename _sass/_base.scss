@@ -576,7 +576,7 @@ a.tosu {
 
 .program-feature-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
 }
 
@@ -605,12 +605,12 @@ a.tosu {
 
 .program-feature-card__content h3 {
   margin-top: 0;
-  font-size: 1.05em;
+  font-size: 1.10em;
 }
 
 .program-feature-card__content p {
   margin-bottom: 0;
-  font-size: 0.95em;
+  font-size: 0.90em;
 }
 
 @media (max-width: 900px) {
