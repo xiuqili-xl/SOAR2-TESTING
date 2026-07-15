@@ -572,7 +572,7 @@ a.tosu {
 }
 
 
-/* Home page program feature boxes */
+/* Home page Program Features section */
 
 .program-feature-grid {
   display: grid;
@@ -616,6 +616,87 @@ a.tosu {
 
 @media (max-width: 900px) {
   .program-feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* Home page Schedule at a Glance section */
+
+.schedule-glance__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.schedule-glance__card {
+  position: relative;
+  display: block;
+  min-height: 210px;
+  padding: 1.25rem;
+  overflow: hidden;
+  color: $text-color;
+  background: #fff;
+  border: 1px solid $text-color;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.schedule-glance__card:hover,
+.schedule-glance__card:focus {
+  border-color: $primary-color;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+  text-decoration: none;
+}
+
+.schedule-glance__day {
+  display: block;
+  margin-bottom: 0.6rem;
+  font-size: 0.8em;
+}
+
+.schedule-glance__title {
+  margin-right: 2.5rem;
+  font-size: 1.1em;
+  font-weight: 700;
+  color: $primary-color;
+}
+
+.schedule-glance__description {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.schedule-glance__ribbon {
+  position: absolute;
+  top: 1.1rem;
+  right: -2.7rem;
+  width: 9rem;
+  padding: 0.2rem 0;
+  color: #fff;
+  background: $primary-color;
+  text-align: center;
+  transform: rotate(45deg);
+}
+
+.schedule-glance__card--special .schedule-glance__ribbon {
+  color: $text-color;
+  background: $accent-color;
+}
+
+.schedule-glance__card--special .schedule-glance__title {
+  color: $primary-color;
+}
+
+@media (max-width: 900px) {
+  .schedule-glance__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .schedule-glance__grid {
     grid-template-columns: 1fr;
   }
 }
