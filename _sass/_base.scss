@@ -642,14 +642,34 @@ a.tosu {
   border: 1px solid $text-color;
   text-decoration: none;
   box-sizing: border-box;
+  border-radius: 0.5rem;
 }
 
 .home a.schedule-glance__card:hover,
 .home a.schedule-glance__card:focus {
   color: $text-color;
-  border-color: #09847A;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
   text-decoration: none;
+}
+
+.home a.schedule-glance__card--module:hover,
+.home a.schedule-glance__card--module:focus {
+  border-color: #09847A;
+}
+
+.home a.schedule-glance__card--special:hover,
+.home a.schedule-glance__card--special:focus {
+  border-color: $accent-color;
+}
+
+.home a.schedule-glance__card--module,
+.home a.schedule-glance__card--module:visited {
+  background-color: rgba(9, 132, 122, 0.15);
+}
+
+.home a.schedule-glance__card--special,
+.home a.schedule-glance__card--special:visited {
+  background-color: rgba($accent-color, 0.15);
 }
 
 .schedule-glance__day {
@@ -697,7 +717,7 @@ a.tosu {
 }
 
 .schedule-glance__card--special .schedule-glance__title {
-  color: $primary-color;
+  color: #8A6500;
 }
 
 @media (max-width: 900px) {
