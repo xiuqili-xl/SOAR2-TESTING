@@ -5,7 +5,11 @@ layout: page
 {{ content }}
 
 <ul id="archive">
-{% for lecture in site.lectures %}
+{% assign module_lectures = site.lectures
+  | where: "session_type_key", "module"
+%}
+
+{% for lecture in module_lectures %}
 <li class="archiveposturl" style="background: transparent">
 <div class="lecture-container">
 

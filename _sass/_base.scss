@@ -648,7 +648,7 @@ a.tosu {
 .home a.schedule-glance__card:hover,
 .home a.schedule-glance__card:focus {
   color: $text-color;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
   text-decoration: none;
 }
 
@@ -664,18 +664,19 @@ a.tosu {
 
 .home a.schedule-glance__card--module,
 .home a.schedule-glance__card--module:visited {
-  background-color: rgba(9, 132, 122, 0.15);
+  background-color: rgba(9, 132, 122, 0.10);
 }
 
 .home a.schedule-glance__card--special,
 .home a.schedule-glance__card--special:visited {
-  background-color: rgba($accent-color, 0.15);
+  background-color: rgba($accent-color, 0.10);
 }
 
 .schedule-glance__day {
   display: block;
   margin-bottom: 0.6rem;
   font-size: 0.8em;
+  font-weight: 500;
 }
 
 .schedule-glance__title {
@@ -683,6 +684,14 @@ a.tosu {
   font-size: 1.0em;
   font-weight: 700;
   color: $primary-color;
+}
+
+.schedule-glance__card--module .schedule-glance__title {
+  color: #09847A;
+}
+
+.schedule-glance__card--special .schedule-glance__title {
+  color: #8A6500;
 }
 
 .schedule-glance__description {
@@ -704,21 +713,16 @@ a.tosu {
 
 .schedule-glance__card--module .schedule-glance__ribbon {
     color: #fff;
+    font-weight: 700;
     background: #09847A;
-}
-
-.schedule-glance__card--module .schedule-glance__title {
-  color: #09847A;
 }
 
 .schedule-glance__card--special .schedule-glance__ribbon {
   color: #111517;
+  font-weight: 700;
   background: $accent-color;
 }
 
-.schedule-glance__card--special .schedule-glance__title {
-  color: #8A6500;
-}
 
 @media (max-width: 900px) {
   .schedule-glance__grid {
