@@ -585,8 +585,8 @@ a.tosu {
   align-items: flex-start;
   gap: 1rem;
   padding: 1.25rem;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: #c8dddd;
+  border: 1px solid #9CBEBE;
   border-radius: 0.5rem;
 }
 
@@ -605,10 +605,12 @@ a.tosu {
 
 .program-feature-card__content h3 {
   margin-top: 0;
+  font-size: 1.05em;
 }
 
 .program-feature-card__content p {
   margin-bottom: 0;
+  font-size: 0.95em;
 }
 
 @media (max-width: 900px) {
