@@ -6,9 +6,6 @@ layout: home
 
 _**SOAR² is free to attend, and meals are provided. A digital badge and a certificate will be issued upon completion.**_
 
-<br/>
-
-
 
 <!-- Move contact info to appropriate place after reworking the home page -->
 <!-- 
