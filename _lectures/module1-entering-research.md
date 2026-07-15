@@ -17,7 +17,7 @@ home_schedule_order: 1
 home_day_label: "Day 1"
 home_card_description: "Discover how research teams work and how to find research opportunities."
 
-session_type: "Module"
+session_type: "module"
 session_type_key: "module"
 session_url: "/sessions/module1/"
 

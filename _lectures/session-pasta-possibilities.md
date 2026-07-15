@@ -17,7 +17,7 @@ home_schedule_order: 9
 home_day_label: "Day 3"
 home_card_description: "TBA."
 
-session_type: "Lunch"
+session_type: "lunch"
 session_type_key: "special"
 session_url: "/resources/"
 

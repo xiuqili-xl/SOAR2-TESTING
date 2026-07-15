@@ -17,7 +17,7 @@ home_schedule_order: 3
 home_day_label: "Day 1, Day 2"
 home_card_description: "TBA."
 
-session_type: "Facility"
+session_type: "facility"
 session_type_key: "special"
 session_url: "/sessions/facility/"       # to be created
 

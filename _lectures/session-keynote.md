@@ -17,7 +17,7 @@ home_schedule_order: 4
 home_day_label: "Day 2"
 home_card_description: "TBA."
 
-session_type: "Keynote"
+session_type: "keynote"
 session_type_key: "special"
 session_url: "/sessions/keynote/"
 

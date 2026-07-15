@@ -17,7 +17,7 @@ home_schedule_order: 7
 home_day_label: "Day 3"
 home_card_description: "TBA"
 
-session_type: "Module"
+session_type: "module"
 session_type_key: "module"
 session_url: "/sessions/module5/"
 

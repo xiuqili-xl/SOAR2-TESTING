@@ -630,7 +630,8 @@ a.tosu {
   gap: 2rem;
 }
 
-.schedule-glance__card {
+.home a.schedule-glance__card,
+.home a.schedule-glance__card:visited {
   position: relative;
   display: block;
   min-height: 210px;
@@ -643,9 +644,10 @@ a.tosu {
   box-sizing: border-box;
 }
 
-.schedule-glance__card:hover,
-.schedule-glance__card:focus {
-  border-color: $primary-color;
+.home a.schedule-glance__card:hover,
+.home a.schedule-glance__card:focus {
+  color: $text-color;
+  border-color: #09847A;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
   text-decoration: none;
 }
@@ -678,6 +680,15 @@ a.tosu {
   background: $primary-color;
   text-align: center;
   transform: rotate(45deg);
+}
+
+.schedule-glance__card--module .schedule-glance__ribbon {
+    color: #fff;
+    background: #09847A;
+}
+
+.schedule-glance__card--module .schedule-glance__title {
+  color: #09847A;
 }
 
 .schedule-glance__card--special .schedule-glance__ribbon {
