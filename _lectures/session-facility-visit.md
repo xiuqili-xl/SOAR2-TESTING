@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 3
 home_day_label: "Day 1, Day 2"
-home_card_description: "TBA."
+home_card_description: "Go behind the scenes of UCSB research facilities and meet the people and technologies that support discovery"
 
 session_type: "facility"
 session_type_key: "special"

@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 7
 home_day_label: "Day 3"
-home_card_description: "TBA"
+home_card_description: "Evaluate when and how GenAI can support research while recognizing its opportunities and limitations"
 
 session_type: "module"
 session_type_key: "module"

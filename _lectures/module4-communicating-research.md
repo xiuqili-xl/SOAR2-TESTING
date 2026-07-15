@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 6
 home_day_label: "Day 2"
-home_card_description: "TBA"
+home_card_description: "Explore how research is shared through publications, presentations, and other scholarly outputs"
 
 session_type: "module"
 session_type_key: "module"

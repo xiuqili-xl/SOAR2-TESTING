@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 5
 home_day_label: "Day 2"
-home_card_description: "TBA"
+home_card_description: "Learn practical strategies for documenting research so your work is organized, transparent, and reproducible"
 
 session_type: "module"
 session_type_key: "module"

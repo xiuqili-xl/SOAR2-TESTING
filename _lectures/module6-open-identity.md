@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 8
 home_day_label: "Day 3"
-home_card_description: "TBA"
+home_card_description: "Build your professional research identity and create a roadmap for your continued growth"
 
 session_type: "module"
 session_type_key: "module"

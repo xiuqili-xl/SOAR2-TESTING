@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 1
 home_day_label: "Day 1"
-home_card_description: "Discover how research teams work and how to find research opportunities."
+home_card_description: "Explore the research lifecycle, refine a research question, and discover opportunities to get involved at UCSB"
 
 session_type: "module"
 session_type_key: "module"

@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 2
 home_day_label: "Day 1"
-home_card_description: "TBA"
+home_card_description: "Work with real data while learning practical strategies for organization, analysis, and visualization"
 
 session_type: "module"
 session_type_key: "module"

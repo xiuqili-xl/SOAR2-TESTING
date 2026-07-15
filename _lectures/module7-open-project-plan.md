@@ -14,7 +14,7 @@ hide_from_announcments: true
 home_schedule: false
 home_schedule_order: 10
 home_day_label: "Day 3"
-home_card_description: "TBA"
+home_card_description: "NA"
 
 session_type: "module"
 session_type_key: "module"

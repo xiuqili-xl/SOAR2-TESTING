@@ -15,7 +15,7 @@ hide_from_announcments: true
 home_schedule: true
 home_schedule_order: 4
 home_day_label: "Day 2"
-home_card_description: "TBA."
+home_card_description: "Hear how openness, collaboration, and reproducibility have shaped a researcher's scientific discoveries and career"
 
 session_type: "keynote"
 session_type_key: "special"
