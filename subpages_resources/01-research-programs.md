@@ -19,7 +19,7 @@ _**Disclaimer:** Program information on this page is current as of Aug 2026 and 
 
 ## UCSB Programs
 
-UCSB offers a variety of research-focused programs that provide mentorship, training, and professional development opportunities for students. This section highlights programs whose representatives are expected to join [the SOAR² session, name TBD], pending availability. For a more comprehensive list of research opportunities at UCSB, please visit the [UCSB Undergraduate Research website](https://undergrad.research.ucsb.edu/research-opportunities).
+UCSB offers a variety of research-focused programs that provide mentorship, training, and professional development opportunities for students. This section highlights programs whose representatives are expected to join the SOAR² Pasta & Possibilities session, pending availability. For a more comprehensive list of research opportunities at UCSB, please visit the [UCSB Undergraduate Research website](https://undergrad.research.ucsb.edu/research-opportunities).
 
 | Opportunity | Description |
 |-------------|-------------|
