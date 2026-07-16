@@ -19,7 +19,7 @@ home_card_description: "Connect with campus programs, discover research opportun
 
 session_type: "lunch"
 session_type_key: "special"
-session_url: ""
+session_url: "/sessions/"           # need fixing
 
 
 links: 
