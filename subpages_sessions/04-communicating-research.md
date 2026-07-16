@@ -8,8 +8,6 @@ permalink: /sessions/module4/
 
 Explore how research is shared and discussed within scholarly communities. You’ll learn about common formats like posters and publications, and what makes research outputs clear and effective. This module also introduces how data, code, and other materials can be shared responsibly.
 
-[ADD module level learning objectives]
-
 <br/>
 
 
@@ -27,7 +25,7 @@ TBA
 <br/>
 
 
-## Additional Reading
+## Additional Resources
 
 TBA
 

@@ -8,8 +8,6 @@ permalink: /sessions/module2/
 
 Work hands-on with data and learn how to organize, explore, and visualize it using tools like Excel and coding language (e.g., R or Python). You’ll see how structuring data thoughtfully makes your work easier to understand and build on. Along the way, you’ll get a glimpse of how coding supports more efficient and reproducible workflows.
 
-[ADD module level learning objectives]
-
 <br/>
 
 
@@ -27,7 +25,7 @@ TBA
 <br/>
 
 
-## Additional Reading
+## Additional Resources
 
 TBA
 
