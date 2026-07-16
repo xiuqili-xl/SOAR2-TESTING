@@ -16,7 +16,7 @@ permalink: /about/
 
 Designed for **undergraduate students** from all disciplines and levels of research experience, SOAR² combines interactive workshops, small group discussions, hands-on activities, and conversations with researchers to help students navigate research with confidence. Throughout the program, students develop an understanding of how research works, learn practices that support transparency and reproducibility, and develop plans that they can apply to their own research journey.
 
-<br/>
+<br>
 
 
 ## Why SOAR²?
@@ -38,7 +38,7 @@ SOAR² also recognizes that modern research is increasingly **collaborative and 
 </div>
 
 
-<br/>
+<br>
 
 
 ## Program Learning Objectives
@@ -53,7 +53,7 @@ By the end of SOAR², participants will be able to
 * Think critically about the opportunities and limitations of Gen AI use in research
 * Develop a plan for the next steps in their research journey
 
-<br/>
+<br>
 
 
 ## Program Structure
@@ -67,7 +67,7 @@ SOAR² extends beyond traditional workshops. The program combines interactive in
 
 See the **[SESSIONS]({{ "/sessions/" | relative_url }}) page** for more information, including the program schedule and module descriptions.
 
-<br/>
+<br>
 
 
 ## Organizers & Partners
@@ -86,7 +86,7 @@ SOAR² is also made possible through the generous support of campus partners who
 
 SOAR² is supported through the **Open Research Community Accelerator (ORCA) [Catalytic Awards Program](https://www.orcaopen.org/work/cap)**, which funds innovative projects that advance open research practices and community engagement.
 
-<br/>
+<br>
 
 
 ## Reuse and Adaptation
@@ -97,4 +97,8 @@ Whenever possible, instructional materials (including slides, handouts, and asse
 
 If you adapt SOAR² material or would like to discuss implementing similar programming at your institution, we would love to hear from you. Contact rds [AT] library.ucsb.edu.
 
-<br/>
+<br>
+
+{% include contact_info.html %}
+<br>
+
