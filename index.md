@@ -11,14 +11,17 @@ _**SOAR² is free to attend, and meals are provided. A digital badge and a certi
 
 {% include home_program_highlights.html %}
 <br>
+<br>
 
 
 {% include home_schedule_glance.html %}
+<br>
 <br>
 
 
 ## Questions?
 **Contact** rds [AT] library.ucsb.edu
+<br>
 
 
 <!-- The code chunk below creates the application button -->
