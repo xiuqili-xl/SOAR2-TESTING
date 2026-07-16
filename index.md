@@ -9,11 +9,11 @@ _**SOAR² is free to attend, and meals are provided. A digital badge and a certi
 <br>
 
 
-{% include program-highlights.html %}
+{% include home_program_highlights.html %}
 <br>
 
 
-{% include schedule-glance.html %}
+{% include home_schedule_glance.html %}
 <br>
 
 
