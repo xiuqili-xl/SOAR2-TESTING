@@ -1,0 +1,35 @@
+<!-- Schedule At-a-Glance  -->
+<!-- pulling data from markdown file in _lectures/ -->
+<section class="schedule-glance">
+    <h2>Schedule at a Glance</h2>
+
+    {% assign schedule_cards = site.lectures
+        | where: "home_schedule", true
+        | sort: "home_schedule_order"
+    %}
+
+    <div class="schedule-glance__grid">
+        {% for session in schedule_cards %}
+        <a
+            class="schedule-glance__card schedule-glance__card--{{ session.session_type_key }}"
+            href="{{ session.session_url | relative_url }}"
+        >
+            <span class="schedule-glance__ribbon">
+            {{ session.session_type }}
+            </span>
+
+            <span class="schedule-glance__day">
+            {{ session.home_day_label }}
+            </span>
+
+            <h3 class="schedule-glance__title">
+            {{ session.title }}
+            </h3>
+
+            <p class="schedule-glance__description">
+            {{ session.home_card_description }}
+            </p>
+        </a>
+        {% endfor %}
+    </div>
+</section>
