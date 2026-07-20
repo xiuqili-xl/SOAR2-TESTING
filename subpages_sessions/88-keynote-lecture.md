@@ -12,7 +12,9 @@ permalink: /sessions/keynote/
 
 <br>
 
-_**More information to come!**_
+<p style="background-color: yellow; font-weight: bold; font-style: italic;">
+  **More information to come!
+</p>
 
 
 <br>

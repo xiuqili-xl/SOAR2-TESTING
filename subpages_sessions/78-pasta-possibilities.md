@@ -9,3 +9,11 @@ Pasta & Possibilities is a casual lunch where you’ll have the opportunity to m
 ⚠️ _**We’re currently finalizing the schedule with representatives from campus programs. This page will be updated as programs/representatives are confirmed.**_
 
 <br>
+
+## Program Representatives
+
+{% include session_program_rep.html %}
+
+
+<br>
+<br>

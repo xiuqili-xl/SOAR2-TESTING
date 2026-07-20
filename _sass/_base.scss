@@ -735,3 +735,81 @@ a.tosu {
     grid-template-columns: 1fr;
   }
 }
+
+
+
+/* Card of program representatives on the Pasta and Possibilities page */
+
+.program-representatives__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  align-items: stretch;
+}
+
+.representative-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 1.25rem;
+  border: 1px solid #c8ced3;
+  border-radius: 0.5rem;
+  background-color: #eef0f2;
+}
+
+/* Alternate card backgrounds */
+.representative-card:nth-child(even) {
+  background-color: #dce1e5;
+}
+
+.representative-card__heading {
+  margin: 0 0 1rem;
+  font-size: 1.25em;
+  line-height: 1.25;
+}
+
+.representative-card__headshot {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.representative-card__content {
+  flex: 1;
+}
+
+.representative-card__title {
+  margin: 0 0 1rem;
+}
+
+.representative-card__topics-heading {
+  margin: 1rem 0 0.5rem;
+  font-size: 1em;
+}
+
+.representative-card__content ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.representative-card__content li {
+  margin-bottom: 0.35rem;
+}
+
+/* One card per row on smaller screens */
+@media (max-width: 900px) {
+  .program-representatives__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .program-representatives__grid {
+    grid-template-columns: 1fr;
+  }
+}
+

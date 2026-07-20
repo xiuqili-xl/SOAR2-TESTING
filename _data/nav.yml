@@ -12,13 +12,9 @@ items:
   icon_class: fas fa-book-open
   subitems:
     - url_internal: /sessions/for-instructors/
-      name: README for Instructors
+      name: "README for Instructors"
     - url_internal: /sessions/
-      name: Program Schedule and Session Overview
-    - url_internal: /sessions/keynote/
-      name: Keynote Lecture
-    - url_internal: /sessions/facility/
-      name: Research Facility Visits
+      name: "Program and Session Overview"
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
@@ -31,6 +27,12 @@ items:
       name: "Module 5: Gen AI in Research"
     - url_internal: /sessions/module6/
       name: "Module 6: Open Research Identity"
+    - url_internal: /sessions/keynote/
+      name: "Keynote Lecture"
+    - url_internal: /sessions/facility/
+      name: "Research Facility Visits"
+    - url_internal: /sessions/possibilities/
+      name: "Pasta & Possibilities"
 
 - url_internal: /resources/
   name: Resources

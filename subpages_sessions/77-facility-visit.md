@@ -46,7 +46,7 @@ These visits provide a _behind-the-scenes look_ at the specialized equipment, ex
     <img
     src="{{ '/_images/collaborators/ucsb-library.jpg' | relative_url }}"
     alt="Logo of Cheadle Center"
-    style="float: right; width: 40%; max-width: 400px; min-width: 250px; margin: 0 0 1rem 1.5rem;"
+    style="float: right; width: 25%; max-width: 250px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
     />
 </a>
 
