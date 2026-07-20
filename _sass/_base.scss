@@ -754,21 +754,22 @@ a.tosu {
   padding: 1.25rem;
   border: 1px solid #c8ced3;
   border-radius: 0.5rem;
-  background-color: #ffffff;
+  background-color: #eef0f2;
 }
 
 /* Alternate card backgrounds */
 .representative-card:nth-child(even) {
-  background-color: #eef0f2;
+  background-color: #ffffff;
 }
 
-.representative-card__heading {
+.post-content .representative-card__heading {
   margin: 0 0 1rem;
   color: #09847a;
   font-size: 1.30em;
   font-style: normal;
   font-weight: 700;
   line-height: 1.25;
+  text-align: center;
 }
 
 .representative-card__headshot {
