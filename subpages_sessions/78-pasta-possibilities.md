@@ -4,10 +4,8 @@ title: Pasta and Possibilities
 permalink: /sessions/possibilities/
 ---
 
-UCSB is home to a wide range of world-class **research facilities** that support research across disciplines. During SOAR², you'll have the opportunity to step inside these spaces, meet the experts who run them, and see firsthand how they help researchers answer questions, make discoveries, and generate new knowledge.
+Pasta & Possibilities is a casual lunch where you’ll have the opportunity to meet representatives from research programs and campus organizations. Rather than listening to a series of presentations, you’ll rotate among tables, ask questions, and have conversations about research opportunities, funding, mentoring, academic support, and ways to get involved in research. Whether you are looking for your first research experience or planning your next step, this is a chance to connect with people who can help.
 
-These visits provide a _behind-the-scenes look_ at the specialized equipment, expertise, and services that make modern research possible. Whether you’re interested in the life sciences, engineering, the social sciences, or the humanities, research facilities are valuable campus resources that help bring research ideas to life.
-
-⚠️ _**We’re continuing to finalize additional research facility visits, and this page will be updated as new opportunities are confirmed.**_
+⚠️ _**We’re currently finalizing the schedule with representatives from campus programs. This page will be updated as programs/representatives are confirmed.**_
 
 <br>
