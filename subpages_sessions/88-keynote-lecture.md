@@ -4,13 +4,18 @@ title: Keynote Lecture
 permalink: /sessions/keynote/
 ---
 
-## About Dr. James Fraser
+<img
+  src="{{ '/_images/program/keynote-announcement.jpg' | relative_url }}"
+  alt="Announcement of Dr. James Fraser, Professor and Chair of the Department of BioEngineering & Therapeutic Sciences at UCSF, as the key keynote speaker for SOAR². His keynote lecture will take place on Sep 22, 9-10 am in Pacific View Room of the UCSB Library"
+  style="float: center; width: 90%; margin: 0 0 1rem 1.5rem;"
+/>
 
-Add bio of Dr. Fraser
+<br>
 
-<br/>
+<p style="background-color: yellow; font-weight: bold; font-style: italic;">
+  **More information to come!
+</p>
 
 
-## About Dr. Fraser's Keynote Lecture
-
-Add description of Dr. Fraser's keynote talk. 
+<br>
+<br>

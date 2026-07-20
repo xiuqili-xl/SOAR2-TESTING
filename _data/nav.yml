@@ -3,14 +3,18 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+- url_internal: /instructors/
+  name: Instructors
+  icon_class: fas fa-user-tie
+
 - url_internal: /sessions/               # ensures the page permalink and nav URL is /sessions/
   name: Sessions
   icon_class: fas fa-book-open
   subitems:
 #    - url_internal: /sessions/for-instructors/
-#      name: README for Instructors
-#    - url_internal: /sessions/keynote/
-#      name: Keynote Lecture
+#      name: "README for Instructors"
+    - url_internal: /sessions/
+      name: "Program and Session Overview"
     - url_internal: /sessions/module1/
       name: "Module 1: Entering Research"
     - url_internal: /sessions/module2/
@@ -23,11 +27,12 @@ items:
       name: "Module 5: Gen AI in Research"
     - url_internal: /sessions/module6/
       name: "Module 6: Open Research Identity"
-
-
-- url_internal: /instructors/
-  name: Instructors
-  icon_class: fas fa-user-tie
+    - url_internal: /sessions/keynote/
+      name: "Keynote Lecture"
+    - url_internal: /sessions/facility/
+      name: "Research Facility Visits"
+    - url_internal: /sessions/possibilities/
+      name: "Pasta & Possibilities"
 
 #- url_internal: /resources/
 #  name: Resources
@@ -43,20 +48,23 @@ items:
 #      name: Article list
 
 
+## ABOUT page with program info -- written more for people who might consider reusing the curriculum
+- url_internal: /about/
+  name: About
+  icon_class: fas fa-info-circle
+
+
 ## Hide schedule during the application process
 #- url_internal: /schedule/
 #  name: Schedule
 #  icon_class: fas fa-calendar-alt
 
-## About page reserved for program info after the program starts. Hide for now.
-#- url_internal: /about/
-#  name: About
-#  icon_class: fas fa-info-circle
 
 ## Hide Assignment page bc we probably won't need it 
 #- url_internal: /assignments/
 #  name: Assignments
 #  icon_class: fas fa-user-graduate
+
 
 ## Example of how to link to 
 #- url_external: https://www.library.ucsb.edu/

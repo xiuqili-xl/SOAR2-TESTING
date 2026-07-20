@@ -25,7 +25,7 @@ TBA
 <br/>
 
 
-## Additional Reading
+## Additional Resources
 
 TBA
 

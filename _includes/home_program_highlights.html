@@ -1,0 +1,28 @@
+<!-- Program Highlights  -->
+<!-- pulling data from _data/features.yml -->
+
+<section class="program-highlights">
+    <h2>Program Highlights</h2>
+
+    <div class="program-feature-grid">
+        {% for feature in site.data.feature %}
+        <article class="program-feature-card">
+            {% if feature.image %}
+            <img
+                class="program-feature-card__image"
+                src="{{ feature.image | relative_url }}"
+                alt="{{ feature.image_alt | default: feature.title }}"
+            >
+            {% endif %}
+
+            <div class="program-feature-card__content">
+            {% if feature.title %}
+                <h3>{{ feature.title }}</h3>
+            {% endif %}
+
+            <p>{{ feature.description }}</p>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+</section>

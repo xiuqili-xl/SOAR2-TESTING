@@ -1,6 +1,5 @@
-# For adding instructor photos to the bottom of the home page
-# Also requires editing _layouts/home.html to add the instructors section
-# Currently hidden until decided
+# For adding organizer and funder photos to the bottom of the home page
+# Also requires editing _layouts/home.html to add the respective sections
 
 organizers:
   - name: RDS

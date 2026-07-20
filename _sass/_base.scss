@@ -559,3 +559,263 @@ a.tosu {
 .opportunities-table tbody tr:nth-child(even) {
   background-color: #f6f9fb;
 }
+
+
+
+/* About page highlight box */
+.about-highlight-box {
+    padding: 18px 20px;
+    margin: 20px 0;
+    border: 1px solid #9CBEBE;
+    border-radius: 4px;
+    background-color: #c8dddd;
+}
+
+
+/* Home page Program Features section */
+
+.program-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.program-feature-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: #edeadfb8;
+  border: 1px solid #C9BF9D;
+  border-radius: 0.5rem;
+}
+
+.program-feature-card__image {
+  flex: 0 0 30%;
+  width: 30%;
+  max-width: 100px;
+  height: auto;
+  object-fit: contain;
+}
+
+.program-feature-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.program-feature-card__content h3 {
+  margin-top: 0;
+  font-size: 1.10em;
+  font-weight: 700;
+}
+
+.program-feature-card__content p {
+  margin-bottom: 0;
+  font-size: 0.90em;
+}
+
+@media (max-width: 900px) {
+  .program-feature-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* Home page Schedule at a Glance section */
+
+.schedule-glance__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.home a.schedule-glance__card,
+.home a.schedule-glance__card:visited {
+  position: relative;
+  display: block;
+  min-height: 210px;
+  padding: 1.25rem;
+  overflow: hidden;
+  color: $text-color;
+  background: #fff;
+  border: 1px solid $text-color;
+  text-decoration: none;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+
+.home a.schedule-glance__card:hover,
+.home a.schedule-glance__card:focus {
+  color: $text-color;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+.home a.schedule-glance__card--module:hover,
+.home a.schedule-glance__card--module:focus {
+  border-color: #09847A;
+}
+
+.home a.schedule-glance__card--special:hover,
+.home a.schedule-glance__card--special:focus {
+  border-color: $accent-color;
+}
+
+.home a.schedule-glance__card--module,
+.home a.schedule-glance__card--module:visited {
+  background-color: rgba(9, 132, 122, 0.10);
+}
+
+.home a.schedule-glance__card--special,
+.home a.schedule-glance__card--special:visited {
+  background-color: rgba($accent-color, 0.10);
+}
+
+.schedule-glance__day {
+  display: block;
+  margin-bottom: 0.6rem;
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+.schedule-glance__title {
+  margin-right: 2rem;
+  font-size: 1.0em;
+  font-weight: 700;
+  color: $primary-color;
+}
+
+.schedule-glance__card--module .schedule-glance__title {
+  color: #09847A;
+}
+
+.schedule-glance__card--special .schedule-glance__title {
+  color: #8A6500;
+}
+
+.schedule-glance__description {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.schedule-glance__ribbon {
+  position: absolute;
+  top: 1.1rem;
+  right: -2.7rem;
+  width: 9rem;
+  padding: 0.2rem 0;
+  color: #fff;
+  background: $primary-color;
+  text-align: center;
+  transform: rotate(45deg);
+}
+
+.schedule-glance__card--module .schedule-glance__ribbon {
+    color: #fff;
+    font-weight: 700;
+    background: #09847A;
+}
+
+.schedule-glance__card--special .schedule-glance__ribbon {
+  color: #111517;
+  font-weight: 700;
+  background: $accent-color;
+}
+
+
+@media (max-width: 900px) {
+  .schedule-glance__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .schedule-glance__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* Card of program representatives on the Pasta and Possibilities page */
+
+.program-representatives__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  align-items: stretch;
+}
+
+.representative-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 1.25rem;
+  border: 1px solid #c8ced3;
+  border-radius: 0.5rem;
+  background-color: #eef0f2;
+}
+
+/* Alternate card backgrounds */
+.representative-card:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.post-content .representative-card__heading {
+  margin: 0 0 1rem;
+  color: #09847a;
+  font-size: 1.30em;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: center;
+}
+
+.representative-card__headshot {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.representative-card__content {
+  flex: 1;
+}
+
+.representative-card__title {
+  margin: 0 0 1rem;
+}
+
+.representative-card__topics-heading {
+  margin: 1rem 0 0.5rem;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.representative-card__content ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.representative-card__content li {
+  margin-bottom: 0.35rem;
+}
+
+/* One card per row on smaller screens */
+@media (max-width: 900px) {
+  .program-representatives__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .program-representatives__grid {
+    grid-template-columns: 1fr;
+  }
+}
+

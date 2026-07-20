@@ -1,0 +1,24 @@
+# For adding info about program features to the Home page
+# Actual set up in _layouts/home.html
+
+# Note, currently using placeholders for images
+
+- title: Hands-on Learning
+  description: Develop practical research skills through interactive workshops, guided exercises, and real-world examples
+  image: /_images/program/feature-hands-on.png
+  image_alt: Icon representing hands-on learning
+
+- title: Open Research in Practice
+  description: Discover how transparent and responsible research practices strengthen research across disciplines
+  image: /_images/program/feature-open-research.png
+  image_alt: Icon representing open research in practice
+
+- title: Collaborative Community
+  description: Learn alongside instructors and peers from diverse disciplines while building your research network
+  image: /_images/program/feature-community.png
+  image_alt: Icon representing collaborative community
+
+- title: Your Research Journey
+  description: Leave with an Open Research Plan and practical next steps to continue growing as a researcher
+  image: /_images/program/feature-map.png
+  image_alt: Icon representing your research journey

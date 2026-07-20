@@ -1,0 +1,46 @@
+<!-- Program representative -->
+<!-- For rendering cards on the Pasta and Possibilities page -->
+
+<section class="program-representatives">
+  <div class="program-representatives__grid">
+    {% for representative in site.data.program_representatives %}
+      <article class="representative-card">
+        <h3 class="representative-card__heading">
+          Meet {{ representative.name }}
+        </h3>
+
+        {% if representative.headshot %}
+          <img
+            class="representative-card__headshot"
+            src="{{ representative.headshot | relative_url }}"
+            alt="{{ representative.headshot_alt | default: 'Representative headshot' }}"
+          >
+        {% endif %}
+
+        <div class="representative-card__content">
+          <p class="representative-card__title">
+            <strong>
+              {{ representative.first_name }} is the {{ representative.title_phrase }}
+              {% if representative.program_url %}
+                <a href="{{ representative.program_url }}">
+                  {{ representative.program }}
+                </a>
+              {% else %}
+                {{ representative.program }}
+              {% endif %}
+            </strong>
+          </p>
+
+          {% if representative.topics and representative.topics != empty %}
+            <h4 class="representative-card__topics-heading">Talk with {{ representative.first_name }} about:</h4>
+            <ul>
+              {% for topic in representative.topics %}
+                <li>{{ topic }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>

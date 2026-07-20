@@ -3,16 +3,13 @@ layout: default
 ---
 
 <div class="home">
-
-    <!-- Recreate the header for HOME; remove if works
-    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
-     -->
     
     <h1>{{ site.course_name }} </h1>
     <p style="font-size: 24px;color: #63625f;"> {{ site.course_semester }}, Loma Pelona Center, UCSB  </p>
 
     {% include announcements.html %}
-    <br />
+    <br>
+
 
     <!-- Hiding Course Description Heading and course description from _config.yml -->
     <!-- 
@@ -20,12 +17,14 @@ layout: default
     <p>{{ site.course_description }}</p>
     -->
 
+
     <!-- This section pulls data from index.md -->
     {{ content }}
-
     <br>
-    
-    <!-- The following section pulls data from entity.yml for the organizers and funder -->
+
+
+    <!-- Organizers and Funders  -->
+    <!-- pulling data from _data/entity.yml -->
     <div>
         <div style="width:55%; float: left">
             <div class="profile-pic-gallary ">
