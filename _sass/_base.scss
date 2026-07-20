@@ -754,17 +754,20 @@ a.tosu {
   padding: 1.25rem;
   border: 1px solid #c8ced3;
   border-radius: 0.5rem;
-  background-color: #eef0f2;
+  background-color: #ffffff;
 }
 
 /* Alternate card backgrounds */
 .representative-card:nth-child(even) {
-  background-color: #dce1e5;
+  background-color: #eef0f2;
 }
 
 .representative-card__heading {
   margin: 0 0 1rem;
-  font-size: 1.25em;
+  color: #09847a;
+  font-size: 1.30em;
+  font-style: normal;
+  font-weight: 700;
   line-height: 1.25;
 }
 
@@ -789,6 +792,8 @@ a.tosu {
 .representative-card__topics-heading {
   margin: 1rem 0 0.5rem;
   font-size: 1em;
+  font-style: normal;
+  font-weight: 700;
 }
 
 .representative-card__content ul {
