@@ -17,7 +17,7 @@ These visits provide a _behind-the-scenes look_ at the specialized equipment, ex
 <img
   src="{{ '/_images/collaborators/facility-cheadle.png' | relative_url }}"
   alt="Logo of Cheadle Center"
-  style="float: right; width: 30%; max-width: 300px; min-width: 150px; margin: 0 0 1rem 1.5rem;"
+  style="float: right; width: 40%; max-width: 400px; min-width: 250px; margin: 0 0 1rem 1.5rem;"
 />
 
 The Cheadle Center for Biodiversity and Ecological Restoration (CCBER) works to preserve regional biodiversity and restore ecosystems. It manages over 340 acres of open space on and near campus and maintains vast **natural history collections** for research. By preserving thousands of biological specimens—including plants, insects, and vertebrates—the center provides a long-term archive for researchers. Faculty and students also use CCBER’s managed ecosystems as living laboratories for **active field studies**.
@@ -29,7 +29,7 @@ The Cheadle Center for Biodiversity and Ecological Restoration (CCBER) works to 
 <img
   src="{{ '/_images/collaborators/facility-mmf.png' | relative_url }}"
   alt="Logo of Cheadle Center"
-  style="float: right; width: 23%; max-width: 230px; min-width: 115px; margin: 0 0 1rem 1.5rem;"
+  style="float: right; width: 40%; max-width: 400px; min-width: 250px; margin: 0 0 1rem 1.5rem;"
 />
 
 The Microscopy and Microanalysis Facility (MMF) at UCSB provides researchers with access to advanced instrumentation for imaging and characterizing materials. The facility houses **Scanning Electron Microscopes (SEM)** for studying surface morphology and **Transmission Electron Microscopes (TEM)** for examining the atomic structures of materials. MMF also offers advanced **Surface Analysis techniques (like XPS and SIMS)** to determine elemental and chemical composition. These tools help researchers investigate the structure and properties of materials ranging from nanomaterials to biological specimens.
@@ -41,7 +41,7 @@ The Microscopy and Microanalysis Facility (MMF) at UCSB provides researchers wit
 <img
   src="{{ '/_images/collaborators/facility-mmf.png' | relative_url }}"
   alt="Logo of Cheadle Center"
-  style="float: right; width: 13%; max-width: 130px; min-width: 65px; margin: 0 0 1rem 1.5rem;"
+  style="float: right; width: 40%; max-width: 400px; min-width: 250px; margin: 0 0 1rem 1.5rem;"
 />
 
 The Special Research Collections (SRC) houses rare and unique **primary source materials** ranging from historic manuscripts and rare books to audiovisual recordings and born-digital archives. Through active collecting of materials that reflect diverse cultural and institutional histories, SRC supports research, teaching, and student learning across disciplines. SRC also advances scholarship through digitization initiatives, long-term preservation, and tailored instruction that helps students and researchers critically engage with primary sources.
