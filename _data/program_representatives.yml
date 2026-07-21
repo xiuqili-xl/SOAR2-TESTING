@@ -17,10 +17,22 @@
   first_name: Julie
   title_phrase: Education Director at
   program: the Materials Research Laboratory
-  program_url: https://www.mrl.ucsb.edu/
+  program_url: https://www.mrl.ucsb.edu/education/undergraduate-opportunities/overview
   headshot: /_images/collaborators/individual-julie-standish.jpeg
   headshot_alt: Headshot of Julie Standish
   topics:
     - Summer research internships
     - Programs during the academic year
     - Preparing a strong application
+
+- name: Shelby Le
+  first_name: Shelby
+  title_phrase: Undergraduate Program Coordinator for
+  program: the Center for Science and Engineering Partnerships (CSEP)
+  program_url: https://csep.ucsb.edu/programs
+  headshot: /_images/collaborators/individual-shelby-le.png
+  headshot_alt: Headshot of Shelby Le
+  topics:
+    - CSEP programs for undergraduates (e.g., EUREKA!, MARC)
+    - Career Pathways Grant
+    - Art of Science competition
